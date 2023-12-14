@@ -1,4 +1,4 @@
-# React Counter Application
+# React Counter Application 
 
 This is a basic React counter application created for learning purposes. The project covers the fundamental concepts of React, including components, JSX, styling, state, and props.
 
