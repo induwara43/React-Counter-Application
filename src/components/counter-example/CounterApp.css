@@ -1,0 +1,24 @@
+button{
+    font-size: 55px;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 20px 75px 20px 75px;
+    margin: 10px;
+    border-width: 5px;
+}
+.incrementBtn{
+    background-color: rgb(71, 71, 214);
+}
+
+.decrementBtn{
+    background-color: rgb(214, 71, 71);
+}
+
+.resetBtn{
+    background-color: rgb(71, 214, 169);
+}
+
+span{
+    font-size: 95px;
+}
